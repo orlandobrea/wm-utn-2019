@@ -12,6 +12,8 @@ div {
 
 .equipo-2 {
     border: 2px; color: blue;
+    height: 5cm;
+    border-radius: 10px;
     
 }
 
