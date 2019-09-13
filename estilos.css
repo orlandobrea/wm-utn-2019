@@ -7,7 +7,10 @@ div {
 }
 
 .equipo-1 {
-
+    width: 400px;
+    height: 200px;
+    background: -webkit-linear-gradient(90deg, yellow 40%, red 60%)
+    
 }
 
 .equipo-2 {
