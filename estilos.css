@@ -11,18 +11,31 @@ div {
 }
 
 .equipo-2 {
+    border: 2px; color: blue;
+    height: 5cm;
+    border-radius: 10px;
+    background: cyan;
     
 }
 
 .equipo-3 {
-    
+    background: #f5a9f5;
+    width: 200px;
+    height: 200px;
 }
 
 .equipo-4 {
-    
+    width: 300px;
+    height: 300px;
+    margin: auto;
+    color: white;
+    background-color: aqua;
 }
 
 .equipo-5 {
+    color: blue;
+    
+}
     h1{
         color: red;
         text-transform: uppercase;
@@ -31,11 +44,22 @@ div {
         color: #000030;
         font-family: sans-serif;
     }
-}
+
 
 .equipo-6 {
+    color: rebeccapurple;
+    font-family: fantasy;
+    text-shadow: 5px 5px 5px red;
+    font-size: 50px;
     
+    display: inline;
+   
 }
+.equipo-6 p {
+    margin: 0;
+    display: inline;
+}
+
 
 .equipo-7 {
     
