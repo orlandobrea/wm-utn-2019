@@ -27,8 +27,19 @@ div {
 }
 
 .equipo-6 {
+    color: rebeccapurple;
+    font-family: fantasy;
+    text-shadow: 5px 5px 5px red;
+    font-size: 50px;
     
+    display: inline;
+   
 }
+.equipo-6 p {
+    margin: 0;
+    display: inline;
+}
+
 
 .equipo-7 {
     
