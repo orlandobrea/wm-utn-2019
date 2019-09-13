@@ -36,6 +36,15 @@ div {
     color: blue;
     
 }
+    h1{
+        color: red;
+        text-transform: uppercase;
+    }
+    p{
+        color: #000030;
+        font-family: sans-serif;
+    }
+
 
 .equipo-6 {
     color: rebeccapurple;
