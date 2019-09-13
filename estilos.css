@@ -25,7 +25,7 @@ div {
 .equipo-5 {
     h1{
         color: red;
-        text-tranformation: uppercase;
+        text-transform: uppercase;
     }
     p{
         color: #000030;
